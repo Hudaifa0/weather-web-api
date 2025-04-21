@@ -55,5 +55,6 @@ Check it out live here: [Weather Checker App](https://weather-web-api-git-main-c
         ├── README.md
         └── requirements.txt
 
-📜 License
+📜 License:
+
 This project is licensed under the MIT License.
