@@ -42,7 +42,7 @@ Check it out live here: [Weather Checker App](https://weather-web-api-git-main-c
 
 8. Visit http://localhost:8000 to view the app.
    
-📦 Directory Structure
+## 📦 Directory Structure
 
         weather-web-api/
         │
