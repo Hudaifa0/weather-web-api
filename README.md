@@ -29,5 +29,5 @@ Check it out live here: [Weather Checker App](https://weather-web-api-git-main-c
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Gggghgggh/weather-checker.git
-cd weather-checker
+git clone https://github.com/Gggghgggh/weather-web-api.git
+cd weather-web-api
